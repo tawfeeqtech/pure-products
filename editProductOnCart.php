@@ -76,6 +76,14 @@ $row = mysqli_fetch_assoc($result)
                         <div class="row justify-content-md-center">
                             <div class="col col-lg-8">
                                 <div class="card mb-4">
+                                    <div class="card-header d-flex justify-content-between align-items-center">
+                                        <h5 class="mb-0"></h5>
+
+                                        <small class="text-muted float-end">
+
+                                            <a href="cart.php" class="btn btn-info">Back</a>
+                                        </small>
+                                    </div>
                                     <div class="card-body">
                                         <form action="actions.php" method="post">
                                             <input type="hidden" name="id" value="<?php echo $row['id']; ?>">
