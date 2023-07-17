@@ -1,7 +1,7 @@
 ## مشروع بسيط لاضافة المنتجات واضافتها للسلة 
 
 ## نبذة سريعة
-- ![مشروع المنتجات](https://github.com/tawfeeqtech/pure-products/assets/86443941/91b1ed42-dceb-4feb-8ec3-64d1e45a57f3)
+ ![مشروع المنتجات](https://github.com/tawfeeqtech/pure-products/assets/86443941/91b1ed42-dceb-4feb-8ec3-64d1e45a57f3)
 
 ## صور من المشروع
 ![index](https://github.com/tawfeeqtech/pure-products/assets/86443941/54342ea4-5ee8-4bad-b0f5-6317fdc1bb8a)
